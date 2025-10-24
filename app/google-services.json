@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257584764747",
+    "project_id": "parcial2-51cac",
+    "storage_bucket": "parcial2-51cac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257584764747:android:290efd177c7976c7fe3ace",
+        "android_client_info": {
+          "package_name": "com.example.parcial2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7i76-V_U6s3m9irr6ivPkIlHRxFoGus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
